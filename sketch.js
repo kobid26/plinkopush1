@@ -84,7 +84,7 @@ function createParticles(){
   }
 
   for(var j=0; j<particles.length; j++){
-    particles[j].lifetime = 150;
+    particles[j].lifetime = 160;
     particles[j].show();
   }
 }
